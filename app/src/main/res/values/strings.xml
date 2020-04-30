@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">AD340HelloWorld</string>
+    <string name="app_name">AD340 Views Demo</string>
+    <string name="zipcode_entry_error">Please enter a valid zipcode!</string>
 </resources>
